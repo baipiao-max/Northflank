@@ -1,4 +1,4 @@
-name: Build Railway Image
+name: Build Northflank Image
 
 on:
   push:
